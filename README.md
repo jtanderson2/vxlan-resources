@@ -16,6 +16,11 @@ Just about anything VXLAN related by Toni Pasanen. He is a true general on the s
 https://nwktimes.blogspot.com/2018/02/vxlan-part-i-why-vxlan-is-needed.html#more
 
 
+Follow this guy on Linkedin! He regularly posts good VXLAN content:
+
+https://www.linkedin.com/in/danieldib/
+
+
 Useful information and scaling considerations when using multicast in the underlay:
 
 https://deliabtech.com/blogs/underlay-multicast-routing-for-vxlan-bum-traffic/
