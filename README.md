@@ -13,3 +13,7 @@ https://developer.cisco.com/docs/nexus-as-code/nx-os-with-ansible/#automating-nx
 
 Just about anything VXLAN related by Toni Pasanen. He is a true general on the subject, and there's a good chance he's covered whatever you're looking for somewhere in his blog. He's also published a number of eBooks consolidating much of the info from his blog posts:
 https://nwktimes.blogspot.com/2018/02/vxlan-part-i-why-vxlan-is-needed.html#more
+
+
+Useful information and scaling considerations when using multicast in the underlay:
+https://deliabtech.com/blogs/underlay-multicast-routing-for-vxlan-bum-traffic/
