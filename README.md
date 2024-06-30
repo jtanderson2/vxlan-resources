@@ -21,6 +21,13 @@ Follow this guy on Linkedin! He regularly posts good VXLAN content:
 https://www.linkedin.com/in/danieldib/
 
 
-Useful information and scaling considerations when using multicast in the underlay:
+Useful information and scaling considerations when using multicast for BUM traffic:
 
 https://deliabtech.com/blogs/underlay-multicast-routing-for-vxlan-bum-traffic/
+
+
+Cisco VXLAN with vPC best practices:
+
+https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2912.pdf
+
+
