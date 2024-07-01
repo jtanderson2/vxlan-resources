@@ -5,7 +5,7 @@
 
 https://www.youtube.com/watch?v=YNqKDI_bnPM&list=PLDQaRcbiSnqFe6pyaSy-Hwj8XRFPgZ5h8&pp=iAQB
 
-<br>
+
 
 
 * Detailed ansible configuration for deploying an NXOS based VXLAN EVPN fabric by Cisco DevNet:
